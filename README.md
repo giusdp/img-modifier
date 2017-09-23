@@ -8,7 +8,7 @@ I included what I use from that in this repository just for convenience.
 
 ## Usage
 
-1) Run in a terminal: python img_modifier.py
+1) Run in a terminal: **python img_modifier.py**
 2) See the instructions it gives in italian.
 3) Learn italian.
 4) Repeat step 1 and 2.
